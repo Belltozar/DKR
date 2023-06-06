@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1685998536 source:d:\Навчання\Другий семестр 6.02.23\С++\konorev\book.cpp
+	"Book.h"
+
+1685996645 d:\Навчання\Другий семестр 6.02.23\С++\konorev\book.h
+	<string>
+	<iostream>
+
+1685998536 source:d:\Навчання\Другий семестр 6.02.23\С++\konorev\interface.cpp
+	"Interface.h"
+	<limits>
+
+1685996645 d:\Навчання\Другий семестр 6.02.23\С++\konorev\interface.h
+	<iostream>
+	<vector>
+	<limits>
+	"Book.h"
+	"Logger.h"
+
+1685996645 d:\Навчання\Другий семестр 6.02.23\С++\konorev\logger.h
+	<fstream>
+	<string>
+
+1685996645 source:d:\Навчання\Другий семестр 6.02.23\С++\konorev\logger.cpp
+	"Logger.h"
+
+1685999305 source:d:\Навчання\Другий семестр 6.02.23\С++\konorev\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<limits>
+	<algorithm>
+	<bitset>
+	"Book.h"
+	"Logger.h"
+	"Interface.h"
+
